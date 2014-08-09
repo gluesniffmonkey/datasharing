@@ -1,3 +1,5 @@
+This is a form of Professor Leek's work by the student Paul James Harper for Coursera.
+
 How to share data with a statistician
 ===========
 
